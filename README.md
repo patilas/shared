@@ -1,2 +1,2 @@
-# apcorp
+# shared
 Common Repository for different projects
